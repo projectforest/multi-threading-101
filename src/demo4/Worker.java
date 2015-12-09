@@ -67,7 +67,7 @@ public class Worker {
             }
             list2.add(random_num.nextInt(100));
         }
-        
+
     }
 
     public void process(){
